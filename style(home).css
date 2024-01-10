@@ -84,7 +84,7 @@ nav ul li a:hover {
     text-transform: uppercase;
     color: transparent;
     -webkit-text-stroke: 1px #fff;
-    background: url('/media/back.png');
+    background-image: url('/media/back.png');
     -webkit-background-clip: text;
     background-clip: text;
     background-position: 0 0;
