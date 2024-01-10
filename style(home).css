@@ -90,6 +90,11 @@ nav ul li a:hover {
     animation: back 20s linear infinite;
 }
 
+.bg-clip-text {
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+
 @keyframes back {
     100% {
         background-position: 2000px 0;
