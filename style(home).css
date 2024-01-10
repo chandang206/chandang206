@@ -86,6 +86,7 @@ nav ul li a:hover {
     -webkit-text-stroke: 1px #fff;
     background: url('/media/back.png');
     -webkit-background-clip: text;
+    background-clip: text;
     background-position: 0 0;
     animation: back 20s linear infinite;
 }
